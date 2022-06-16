@@ -1,3 +1,5 @@
+![Icon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 # Graph Visualisation using Python 3
 
 This is a small project used for graph visualisation using Python3 and matplotlib library. Graph object is able to contain data about node points and edge connections. During the run of the project, graph is initialised and filled with random node points and edge connections controlled by contants provided in `config.py` file. 
